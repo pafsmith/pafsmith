@@ -26,7 +26,7 @@ When I'm not coding, you'll find me:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pafsmith&show_icons=true&theme=dark)
 
 ### 🤝 Let's Connect
-- 💼 LinkedIn: Here[Here](https://www.linkedin.com/in/paul-smith-b306b2333/)
+- 💼 LinkedIn: [Here](https://www.linkedin.com/in/paul-smith-b306b2333/)
 - 📧 Email: [paul@psmithdev.com](mailto:paul@psmithdev.com)
 - 🌐 Portfolio: [psmithdev.com](https://psmithdev.com)
 # pafsmith
